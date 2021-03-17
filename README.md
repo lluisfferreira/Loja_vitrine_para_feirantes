@@ -4,4 +4,7 @@ Projeto de vitrine virtual, com objetivo de conectar "produtores rurais"/feirant
 
 Ferramenta de desenvolvimento: Mobirise 4.
 
-![Imagem 1](https://user-images.githubusercontent.com/51087767/81430265-87735c00-9135-11ea-82b4-cf4d6f141256.png)
+![1](https://user-images.githubusercontent.com/51087767/111394943-7c188780-869a-11eb-9bcc-7109c88592d8.png)
+![2](https://user-images.githubusercontent.com/51087767/111394969-8e92c100-869a-11eb-90eb-9bd2a7dda2ee.jpg)
+![3](https://user-images.githubusercontent.com/51087767/111394974-905c8480-869a-11eb-91d5-9a91a41fc16e.jpg)
+
